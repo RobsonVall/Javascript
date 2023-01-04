@@ -1,0 +1,1 @@
+document.write("<p style=' color: #FF0000;'>Impressão na tela<br> com document.write()</p>");
